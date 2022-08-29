@@ -5,4 +5,3 @@
 [![CodeForces Profile](https://cf.leed.at?id=Daisy)](https://codeforces.com/profile/Daisy)
 
 [블로그 (github pages)](https://leeyeongjae1.github.io) 
-공부한 내용을 기록하는 블로그

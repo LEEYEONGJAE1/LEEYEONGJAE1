@@ -4,4 +4,4 @@
 [![CodeForces Profile](https://cf.leed.at?id=Rose)](https://codeforces.com/profile/Rose)
 [![CodeForces Profile](https://cf.leed.at?id=Daisy)](https://codeforces.com/profile/Daisy)
 
-[블로그](https://leeyeongjae1.github.io) 
+[공부한 내용 기록하는 블로그 blog](https://leeyeongjae1.github.io) 

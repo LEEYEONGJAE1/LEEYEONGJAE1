@@ -2,7 +2,7 @@
 
 이영재입니다.
 
-[공부한 내용 기록하는 블로그 blog](https://leeyeongjae1.github.io) 
+[blog](https://leeyeongjae1.github.io) 
 
 ## ROAD TO CANDIDATE MASTER
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=Rose)](https://solved.ac/Rose)

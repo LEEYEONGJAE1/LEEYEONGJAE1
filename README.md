@@ -2,8 +2,7 @@
 
 이영재입니다.
 
-## 블로그 
-[Brain Day](https://leeyeongjae1.github.io)
+## [블로그](https://leeyeongjae1.github.io)
 
 ## ROAD TO CANDIDATE MASTER
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=Rose)](https://solved.ac/Rose)

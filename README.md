@@ -13,4 +13,5 @@
 
 ## [AWS Certification](https://www.credly.com/users/yeongjae-lee.e63e4a70/badges)
 
-<img src="./badges/aws-certified-developer-associate.png" width="30%" height="30%" />
+<img src="badges/aws-certified-developer-associate.png" width="15%" height="15%" />
+<img src="badges/aws-certified-devops-engineer-professional.png" width="15%" height="15%" />

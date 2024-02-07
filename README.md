@@ -2,8 +2,7 @@
 
 이영재입니다.
 
-## 블로그 
-[Brain Day](https://leeyeongjae1.github.io)
+## [블로그](https://leeyeongjae1.github.io)
 
 ## ROAD TO CANDIDATE MASTER
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=Rose)](https://solved.ac/Rose)
@@ -13,4 +12,5 @@
 
 ## [Credly](https://www.credly.com/users/yeongjae-lee.e63e4a70/badges)
 
-<img src="./badges/aws-certified-developer-associate.png" width="30%" height="30%" />
+<img src="badges/aws-certified-developer-associate.png" width="15%" height="15%" align='left'/>
+<img src="badges/aws-certified-devops-engineer-professional.png" width="15%" height="15%" align='left'/>

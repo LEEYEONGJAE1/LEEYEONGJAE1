@@ -15,6 +15,8 @@
 ## Road to 700
 [https://openpowerlifting.org/u/yeongjaelee](https://openpowerlifting.org/u/yeongjaelee)
 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nordicbulgarian/)
+
 ## [Credly](https://www.credly.com/users/yeongjae-lee.e63e4a70/badges)
 
 <img src="badges/aws-certified-developer-associate.png" width="15%" height="15%" align='left'/>
